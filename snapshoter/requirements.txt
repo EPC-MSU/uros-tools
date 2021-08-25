@@ -1,0 +1,2 @@
+#libarchive-c>=2.7
+libconf>=1.0.1

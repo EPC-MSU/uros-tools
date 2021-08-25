@@ -1,0 +1,12 @@
+label: dos
+label-id: 0xf3346a47
+device: /dev/sdb
+unit: sectors
+
+/dev/sdb1 : start=        2048, size=     8388608, type=83, uuid="47ca5ce5-c7f2-45ae-97f9-d717f80f6301"
+/dev/sdb2 : start=     8390656, size=     8388608, type=83, uuid="47ca5ce5-c7f2-45ae-97f9-d717f80f6302"
+/dev/sdb3 : start=    16779264, size=    33554432, type=83, uuid="47ca5ce5-c7f2-45ae-97f9-d717f80f6303"
+/dev/sdb4 : start=    50333696, size=     8292592, type=5
+/dev/sdb5 : start=    50335744, size=      262144, type=83, uuid="5DC6-2E05"
+/dev/sdb6 : start=    50599936, size=      262144, type=83, uuid="5DC6-2E06"
+/dev/sdb7 : start=    50864128, size=      131072, type=83, uuid="5DC6-2E07"

@@ -1,5 +1,5 @@
-#FROM debian:bullseye-slim
-FROM python:3.8.11-slim-bullseye
+FROM debian:bullseye-slim
+#FROM python:3.8.11-slim-bullseye
 
 COPY snapshoter/requirements.txt /uros-tools/snapshoter/requirements.txt
 WORKDIR /uros-tools
